@@ -1,0 +1,11 @@
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+python-dotenv>=1.0.1
+
+# Speech To Text
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+
+# Text To Speech
+pyttsx3>=2.98
