@@ -3,3 +3,6 @@ langchain
 langchain-core
 langchain-groq
 langchain-community
+tiktoken
+chromadb
+langchain-huggingface
